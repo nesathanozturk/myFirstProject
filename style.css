@@ -1,0 +1,25 @@
+  #content {
+    margin: 3rem auto;
+    width: 60%;
+  }
+  #content div {
+    padding: 5px;
+  }
+  #title {
+    margin-left: 3rem;
+  }
+  .heading {
+    color: white;
+    background-color: brown;
+    font-weight: bold;
+    border-radius: 1rem;
+  }
+  .info {
+    display: inline-block;
+    padding: 5px;
+    text-decoration: underline;
+  }
+  .info > span {
+    color: brown;
+    font-weight: bold;
+  }
